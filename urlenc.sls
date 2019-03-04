@@ -1,4 +1,4 @@
-{% set pass = 'francone' %}
+{% set pass = 'No! del Montana$' %}
 
 stampa:
   cmd.run:
