@@ -1,4 +1,4 @@
-{% set pass = 't-rGuS9xJj2?fS3q' %}
+{% set pass = 'francone' %}
 
 stampa:
   cmd.run:
